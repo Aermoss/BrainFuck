@@ -12,7 +12,7 @@ python main.py main.bf
 python main.py main.bf --no-limit
 ```
 
-## Examples
+# Examples
 ## Hello, World!
 ```
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]
