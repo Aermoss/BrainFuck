@@ -1,5 +1,5 @@
 # BrainFuck
-really small brainfuck interpreter written in python.
+A simple BrainFuck interpreter written in python using llvmlite.
 
 # Getting Started
 ## Usage
