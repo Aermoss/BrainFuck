@@ -1,5 +1,5 @@
 # BrainFuck
-A simple BrainFuck interpreter written in Python using LLVM.
+A simple BrainFuck interpreter written in Python.
 
 # Getting Started
 ## Usage
